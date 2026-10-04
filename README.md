@@ -28,15 +28,6 @@
 
 ## ✨ Tecnologia e objetivos
 
-| 💻 Desenvolvimento | 📚 Estudos | 🎯 Objetivo |
-|:---:|:---:|:---:|
-| Desenvolvedora Web em formação | Estudante de ADS | Primeira oportunidade em TI |
-| Front-end & Back-end | Aprendizado contínuo | Evoluir profissionalmente |
-
-</div>
-
-<br>
-
 - ✨ Desenvolvedora web em formação
 - 📚 Estudante de ADS
 - 🎯 Em busca de oportunidade na área
