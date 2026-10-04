@@ -115,9 +115,6 @@
 
 🎯 Buscando minha primeira oportunidade profissional na área de tecnologia
 
-</div>
-
----
 
 ## 📫 Entre em contato
 
