@@ -105,8 +105,6 @@
 
 ## 💜 Atualmente
 
-<div align="center">
-
 🌱 Aprofundando meus conhecimentos em **Front-end**
 
 ⚛️ Estudando **React**
