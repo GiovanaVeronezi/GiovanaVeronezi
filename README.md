@@ -116,19 +116,8 @@
 🎯 Buscando minha primeira oportunidade profissional na área de tecnologia
 
 
-## 📫 Entre em contato
 
-<div align="center">
 
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 <h2 align="center">👾 Meu cantinho no GitHub</h2>
 
