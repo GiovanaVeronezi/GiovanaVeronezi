@@ -74,8 +74,6 @@
 
 </div>
 
-<h2 align="center">🐍 Minhas contribuições</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiovanaVeronezi/GiovanaVeronezi/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
