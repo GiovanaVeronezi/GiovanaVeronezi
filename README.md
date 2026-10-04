@@ -95,6 +95,8 @@
     └── MongoDB
 
 
+<h2 align="center">🐍 Minhas contribuições</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub"/>
+  <img src="https://raw.githubusercontent.com/GiovanaVeronezi/GiovanaVeronezi/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
