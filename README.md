@@ -85,15 +85,15 @@
 │   ├── CSS
 │   ├── JavaScript
 │   └── React
-│
+
 ├── Back-end
 │   ├── Node.js
 │   ├── Express
 │   └── APIs REST
-│
+
 └── Banco de Dados
     └── MongoDB
-
+```
 
 <h2 align="center">🐍 Minhas contribuições</h2>
 
