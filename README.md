@@ -74,27 +74,6 @@
 
 </div>
 
----
-
-## 🛠️ O que venho desenvolvendo
-
-```text
-🌐 Desenvolvimento Web
-├── Front-end
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│   └── React
-
-├── Back-end
-│   ├── Node.js
-│   ├── Express
-│   └── APIs REST
-
-└── Banco de Dados
-    └── MongoDB
-```
-
 <h2 align="center">🐍 Minhas contribuições</h2>
 
 <p align="center">
