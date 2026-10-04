@@ -26,9 +26,7 @@
 
 ---
 
-## ✨ Um pouco sobre mim
-
-<div align="center">
+## ✨ Tecnologia e objetivos
 
 | 💻 Desenvolvimento | 📚 Estudos | 🎯 Objetivo |
 |:---:|:---:|:---:|
