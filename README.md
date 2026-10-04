@@ -104,43 +104,6 @@
 │
 └── Banco de Dados
     └── MongoDB
-```
-
----
-
-## 📌 Projetos
-
-<div align="center">
-
-### 📚 Sistema de Gerenciamento de Livros
-
-Aplicação web desenvolvida para gerenciamento de livros e autores.
-
-**Tecnologias utilizadas:**
-
-`React` `JavaScript` `Node.js` `Express` `MongoDB`
-
-<br>
-
-### 🌐 Sites e aplicações web
-
-Desenvolvimento de projetos utilizando tecnologias modernas de Front-end e Back-end, buscando criar interfaces funcionais, responsivas e intuitivas.
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=midnight-purple"/>
-
-</div>
-
----
 
 ## 💜 Atualmente
 
@@ -174,20 +137,10 @@ Desenvolvimento de projetos utilizando tecnologias modernas de Front-end e Back-
 
 </div>
 
----
-
 <h2 align="center">👾 Meu cantinho no GitHub</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
----
-
-<h2 align="center">🟣 Pac-Man</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11xOhngUwsmJIs/giphy.gif" width="180" alt="Pac-Man"/>
 </p>
 
 <p align="center">
